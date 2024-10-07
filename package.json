@@ -1,12 +1,16 @@
 {
   "name": "tm-react-modal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react modal package",
   "main": "dist/index.js",
   "scripts": {
     "build": "webpack"
   },
-  "keywords": ["react", "modal", "openclassrooms"],
+  "keywords": [
+    "react",
+    "modal",
+    "openclassrooms"
+  ],
   "author": "Tournier Maxime",
   "license": "ISC",
   "dependencies": {
