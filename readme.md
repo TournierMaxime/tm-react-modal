@@ -23,6 +23,8 @@ yarn add tm-react-modal
 ## Usage
 
 ```jsx
+import { Modal } from "tm-react-modal"
+
 const App = () => {
   const [showModal, setShowModal] = useState(false);
 
